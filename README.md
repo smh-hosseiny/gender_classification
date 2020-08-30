@@ -1,4 +1,4 @@
-# voice_recognition
+# gender_classification
 A classifier is implemented to classify voices to male and female categories.
 Used voices are in persian language.
 procedure:
